@@ -9,7 +9,7 @@ go get -u github.com/futuretea/demo
 ## Usage
 
 ```
-$cat demo.vsc
+$cat demo.csv
 description,command
 command 1,ls
 command 2,ls -l
